@@ -1,3 +1,8 @@
 This is file three
+<<<<<<< HEAD
 First chnage made on file three 
 
+=======
+First chnage made on file three
+third change
+>>>>>>> 606b8ae1fc667af93d786d4c62e43fda0705ec57
